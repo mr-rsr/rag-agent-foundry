@@ -1,0 +1,10 @@
+# Azure AI Foundry & Model Ingestion
+azure-ai-projects>=1.0.0b1
+azure-identity>=1.17.0
+azure-ai-evaluation>=1.0.0b1
+
+# Document Processing & Utilities
+pypdf>=4.0.0
+python-dotenv>=1.0.0
+pydantic>=2.7.0
+tqdm>=4.66.0
